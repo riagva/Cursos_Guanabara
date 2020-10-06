@@ -9,7 +9,7 @@ Quem usar o conteúdo deste repositório, seja qual for a sua finalidade, dever�
 
 O *Prof. Gustavo Guanabara* divulga o seu material nos seguintes canais:
 * [Curso em Vídeo - Canal do YouTube](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
-* [Curso em Vídeo - Cursos online free](https://www.cursoemvideo.com/)
+* [Curso em Vídeo - Cursos online free com certificados pagos](https://www.cursoemvideo.com/)
 * [Estudonauta - Cursos online pagos](https://www.estudonauta.com/)
 
 Se gostou do conteúdo siga o Prof. Gustavo Guanabara, [aqui](https://github.com/gustavoguanabara), no GuitHub.
